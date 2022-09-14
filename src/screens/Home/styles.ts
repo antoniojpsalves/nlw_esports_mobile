@@ -7,10 +7,14 @@ export const styles = StyleSheet.create({
         flex: 1,
         alignItems: 'center'
     },
-    logo:{
+    logo: {
         width: 214,
         height: 120,
         marginTop: 64,
         marginBottom: 48
+    },
+    contentList: {
+        paddingLeft: 32,
+        paddingRight: 64,
     }
 });
